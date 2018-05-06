@@ -23,5 +23,5 @@ return "expert"
 end
 
 def pizza_party(default="cheese")
-  return pizza_party
+  return default
 end
